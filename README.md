@@ -2,4 +2,4 @@
 > OPGC 챌린저를 향해 🔥
 
 * 2022-10-24
-  * 김민규 - [Python](https://ctudy.com) [✅]
+  * 김민규 - [Python](https://github.com/ODOA-Project/ODOA/pull/1) [✅]
