@@ -1,5 +1,8 @@
 ## (문제 제목)
-(문제 내용)
+(문제 내용 기재)
+
+## Time Complex & Space Complex
+(시간복잡도 & 메모리 사용량 기재)
 
 ## 참고 링크
 * [Leet Code](#)
