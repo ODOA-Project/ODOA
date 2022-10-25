@@ -13,8 +13,6 @@ public:
         {
             for (int j = 1; j <= nums.size() - 1; j++)
             {
-                if (i == j) continue;
-
                 if (target == (nums[i] + nums[j]))
                 {
                     arr.push_back(i);
