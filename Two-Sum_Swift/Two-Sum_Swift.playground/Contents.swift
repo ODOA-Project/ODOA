@@ -2,28 +2,20 @@ import UIKit
 
 class Solution {
     func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
-        
-        var result: [Int] = []
+        var dics: [Int:Int] = [:]
         
         for (index, num) in nums.enumerated() {
-            if (nums.count == index) {
-                return []
+            let diff = target - num
+            if dics.keys.contains(diff) {
+                return [dics[diff]!, index]
             }
-            
-            let nextNum = nums[index + 1]
-            let sum = num + nextNum
-            
-            if sum == target {
-                result.append(num)
-                result.append(nextNum)
-                break
-            }
+                   
+            dics[num] = index
         }
         
-        return result
+        return []
     }
 }
 
 let solution = Solution()
-print(solution.twoSum([2, 7, 11, 15], 26))
-
+print(solution.twoSum([0, 1, 2, 0], 0))
