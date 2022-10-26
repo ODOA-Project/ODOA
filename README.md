@@ -9,3 +9,4 @@
 * 2022-10-26
   * 김민규 - [Python](https://github.com/ODOA-Project/ODOA/pull/7) [✅]
   * 김민규 - [Python](https://github.com/ODOA-Project/ODOA/pull/4) [✅]
+  * 임경미 - [c++](https://github.com/ODOA-Project/ODOA/pull/5) [✅]
