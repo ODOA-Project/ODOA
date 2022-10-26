@@ -5,25 +5,25 @@ class Solution {
         if x < 0 { return false }
         if x < 10 { return true }
         
-        var palindrome: [Int] = []
+        var palindrome = 0
         var copyX = x
-        var flag = true
         
-        while flag {
+        while copyX > 0 {
             let quotient = copyX / 10 // 몫
             let remainder = copyX % 10 // 나머지
+            let digit = floor(log10(CGFloat(copyX))) // 자릿수
             
-            palindrome.append(remainder)
+            palindrome += remainder * Int(pow(10, digit))
             
             if quotient < 10 {
-                palindrome.append(quotient)
-                flag = false
+                palindrome += quotient
+                copyX = -1
             } else {
                 copyX = quotient
             }
         }
         
-        if palindrome == palindrome.reversed() {
+        if x == palindrome {
             return true
         } else {
             return false
