@@ -1,3 +1,30 @@
+from collections import OrderedDict
+
+
+class OrderedDictLRUCache:
+    def __init__(self, capacity: int):
+        self.lru_hash = OrderedDict()
+        self.capacity = capacity
+
+    def get(self, key: int) -> int:
+        if key not in self.lru_hash:
+            return -1
+
+        self.lru_hash.move_to_end(key)
+        return self.lru_hash[key]
+
+    def put(self, key: int, value: int) -> None:
+        if key in self.lru_hash:
+            self.lru_hash.move_to_end(key)
+            self.lru_hash[key] = value
+            return None
+
+        if len(self.lru_hash) >= self.capacity:
+            self.lru_hash.popitem(last=False)
+
+        self.lru_hash[key] = value
+
+
 class LRUCache:
     def __init__(self, capacity: int):
         self.key_time_table = []
@@ -38,4 +65,3 @@ if __name__ == '__main__':
     lru.put(1, 2)
     lru.get(1)
     lru.get(2)
-
