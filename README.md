@@ -11,4 +11,4 @@
   * 임경미 - [c++](https://github.com/ODOA-Project/ODOA/pull/5) [✅]
   * 김지은 - [Swift](https://github.com/ODOA-Project/ODOA/pull/6) [✅]
 * 2022-10-27
-  * 김지은 - [Swift]() [✅]
+  * 김지은 - [Swift](https://github.com/ODOA-Project/ODOA/pull/9) [✅]
