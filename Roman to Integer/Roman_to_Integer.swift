@@ -9,11 +9,10 @@ class Solution {
             .replacingOccurrences(of: "XC", with: "LXXXX")
             .replacingOccurrences(of: "CD", with: "CCCC")
             .replacingOccurrences(of: "CM", with: "DCCCC")
-        var sum = 0
         
-        var sum = changeS.map({ (ch: Character) -> Int in return romanToIntDics[ch]! }).reduce(0, +)
-            sum += romanToIntDics[ch]!
-        }
+        let sum = changeS.map { ch -> Int in
+            return romanToIntDics[ch]!
+        }.reduce(0, +)
 
         return sum
     }
