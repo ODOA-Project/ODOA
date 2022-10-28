@@ -11,7 +11,7 @@ class Solution {
             .replacingOccurrences(of: "CM", with: "DCCCC")
         var sum = 0
         
-        for ch in changeS {
+        var sum = changeS.map({ (ch: Character) -> Int in return romanToIntDics[ch]! }).reduce(0, +)
             sum += romanToIntDics[ch]!
         }
 
