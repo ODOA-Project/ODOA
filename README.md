@@ -34,3 +34,4 @@
   * [Jieun Kim](https://github.com/saranghe41) - [Palindrome Number Swift](https://github.com/ODOA-Project/ODOA/pull/6) [✅]
 * 2022-10-27
   * [Jieun Kim](https://github.com/saranghe41) - [Roman to Integer Swift](https://github.com/ODOA-Project/ODOA/pull/9) [✅]
+  * [MINT](https://github.com/kyu1204) - [LFU Cache Python](https://github.com/ODOA-Project/ODOA/pull/10) [✅]
