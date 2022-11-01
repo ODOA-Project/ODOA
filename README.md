@@ -35,3 +35,6 @@
 * 2022-10-27
   * [Jieun Kim](https://github.com/saranghe41) - [Roman to Integer Swift](https://github.com/ODOA-Project/ODOA/pull/9) [✅]
   * [MINT](https://github.com/kyu1204) - [LFU Cache Python](https://github.com/ODOA-Project/ODOA/pull/10) [✅]
+* 2022-10-28
+  * [Jieun Kim](https://github.com/saranghe41) - [Longest Common Prefix Swift](https://github.com/ODOA-Project/ODOA/pull/12) [✅]
+
