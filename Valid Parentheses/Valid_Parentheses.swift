@@ -17,11 +17,7 @@ class Solution {
             }
         }
         
-        if arr == [] {
-            return true
-        } else {
-            return false
-        }
+        return arr.count == 0
     }
 }
 
