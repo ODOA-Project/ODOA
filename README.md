@@ -43,6 +43,7 @@
   * [Jieun Kim](https://github.com/saranghe41) - [Valid Parentheses Swift](https://github.com/ODOA-Project/ODOA/pull/14) [✅]
 * 2022-11-02
   * [yourHooni](https://github.com/yourHooni) - [Remove Element Python](https://github.com/ODOA-Project/ODOA/pull/15) [✅]
+  * [yourHooni](https://github.com/yourHooni) - [Valid Perfect Square Python](https://github.com/ODOA-Project/ODOA/pull/17) [✅]
   * [Jieun Kim](https://github.com/saranghe41) - [Merge Two Sorted Lists](https://github.com/ODOA-Project/ODOA/pull/20) [✅]
 * 2022-11-03
   * [kyeongmi](https://github.com/lim-km) - [Roman to Integer C++](https://github.com/ODOA-Project/ODOA/pull/18) [✅]
