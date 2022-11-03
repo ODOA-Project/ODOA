@@ -43,3 +43,4 @@
   * [Jieun Kim](https://github.com/saranghe41) - [Valid Parentheses Swift](https://github.com/ODOA-Project/ODOA/pull/14) [✅]
 * 2022-11-02
   * [yourHooni](https://github.com/yourHooni) - [Remove Element Python](https://github.com/ODOA-Project/ODOA/pull/15) [✅]
+  * [Jieun Kim](https://github.com/saranghe41) - [Merge Two Sorted Lists](https://github.com/ODOA-Project/ODOA/pull/20) [✅]
