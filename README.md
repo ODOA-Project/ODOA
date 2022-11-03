@@ -37,6 +37,7 @@
   * [MINT](https://github.com/kyu1204) - [LFU Cache Python](https://github.com/ODOA-Project/ODOA/pull/10) [✅]
 * 2022-10-28
   * [Jieun Kim](https://github.com/saranghe41) - [Longest Common Prefix Swift](https://github.com/ODOA-Project/ODOA/pull/12) [✅]
+  * [MINT](https://github.com/kyu1204) - [Merge Two Sorted Lists Python](https://github.com/ODOA-Project/ODOA/pull/11) [✅]
 * 2022-11-01
   * [MINT](https://github.com/kyu1204) - [Remove Duplicates from Sorted Array Python](https://github.com/ODOA-Project/ODOA/pull/13) [✅]
   * [Jieun Kim](https://github.com/saranghe41) - [Valid Parentheses Swift](https://github.com/ODOA-Project/ODOA/pull/14) [✅]
