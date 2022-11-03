@@ -10,8 +10,6 @@ public class ListNode {
 
 class Solution {
     func mergeTwoLists(_ list1: ListNode?, _ list2: ListNode?) -> ListNode? {
-        if list1 == nil, list2 == nil { return nil }
-        
         if list1 == nil || list2 == nil { return list1 == nil ? list2 : list1 }
         
         if list1!.val <= list2!.val {
