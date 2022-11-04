@@ -54,5 +54,7 @@
   * [kyeongmi](https://github.com/lim-km) - [Longest Common Prefix C++](https://github.com/ODOA-Project/ODOA/pull/23) [✅]
 * 2022-11-04
   * [Jieun Kim](https://github.com/saranghe41) - [Remove Element](https://github.com/ODOA-Project/ODOA/pull/28) [✅]
+  * [kyeongmi](https://github.com/lim-km) - [Valid Parentheses C++](https://github.com/ODOA-Project/ODOA/pull/29) [✅]
 * 2022-11-08
   * [MINT](https://github.com/kyu1204) - [Merge Sorted Array Python](https://github.com/ODOA-Project/ODOA/pull/31) [✅]
+
