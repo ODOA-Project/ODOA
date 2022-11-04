@@ -47,3 +47,5 @@
   * [yourHooni](https://github.com/yourHooni) - [Valid Perfect Square Python](https://github.com/ODOA-Project/ODOA/pull/17) [✅]
 * 2022-11-03
   * [kyeongmi](https://github.com/lim-km) - [Roman to Integer C++](https://github.com/ODOA-Project/ODOA/pull/18) [✅]
+* 2022-11-04
+  * [yourHooni](https://github.com/yourHooni) - [Longest Common Prefix Python](https://github.com/ODOA-Project/ODOA/pull/26) [✅]
