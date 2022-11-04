@@ -48,3 +48,4 @@
   * [MINT](https://github.com/kyu1204) - [Remove Element Python](https://github.com/ODOA-Project/ODOA/pull/16) [✅]
 * 2022-11-03
   * [kyeongmi](https://github.com/lim-km) - [Roman to Integer C++](https://github.com/ODOA-Project/ODOA/pull/18) [✅]
+  * [MINT](https://github.com/kyu1204) - [Search Insert Position Python](https://github.com/ODOA-Project/ODOA/pull/22) [✅]
