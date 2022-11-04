@@ -49,3 +49,4 @@
 * 2022-11-03
   * [kyeongmi](https://github.com/lim-km) - [Roman to Integer C++](https://github.com/ODOA-Project/ODOA/pull/18) [✅]
   * [MINT](https://github.com/kyu1204) - [Search Insert Position Python](https://github.com/ODOA-Project/ODOA/pull/22) [✅]
+  * [Jieun Kim](https://github.com/saranghe41) - [Remove Duplicates from Sorted Array](https://github.com/ODOA-Project/ODOA/pull/21) [✅]
