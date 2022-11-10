@@ -52,3 +52,5 @@
   * [MINT](https://github.com/kyu1204) - [Search Insert Position Python](https://github.com/ODOA-Project/ODOA/pull/22) [✅]
   * [Jieun Kim](https://github.com/saranghe41) - [Remove Duplicates from Sorted Array](https://github.com/ODOA-Project/ODOA/pull/21) [✅]
   * [kyeongmi](https://github.com/lim-km) - [Longest Common Prefix C++](https://github.com/ODOA-Project/ODOA/pull/23) [✅]
+* 2022-11-10
+  * [Jieun Kim](https://github.com/saranghe41) - [Search Insert Position](https://github.com/ODOA-Project/ODOA/pull/32) [✅]
