@@ -56,3 +56,5 @@
   * [Jieun Kim](https://github.com/saranghe41) - [Remove Element](https://github.com/ODOA-Project/ODOA/pull/28) [✅]
 * 2022-11-08
   * [MINT](https://github.com/kyu1204) - [Merge Sorted Array Python](https://github.com/ODOA-Project/ODOA/pull/31) [✅]
+* 2022-11-13
+  * [MINT](https://github.com/kyu1204) - [Reverse Words in a String Python](https://github.com/ODOA-Project/ODOA/pull/34) [✅]
