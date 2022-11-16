@@ -61,3 +61,5 @@
   * [kyeongmi](https://github.com/lim-km) - [Merge Two Sorted Lists C++](https://github.com/ODOA-Project/ODOA/pull/30) [✅]
 * 2022-11-08
   * [MINT](https://github.com/kyu1204) - [Merge Sorted Array Python](https://github.com/ODOA-Project/ODOA/pull/31) [✅]
+* 2022-11-13
+  * [Jieun Kim](https://github.com/saranghe41) - [Plus One](https://github.com/ODOA-Project/ODOA/pull/35) [✅]
