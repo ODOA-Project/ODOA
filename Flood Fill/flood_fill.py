@@ -2,32 +2,24 @@ from typing import List
 
 
 class Solution:
-    def __init__(self):
-        self.image: List[List[int]] = []
-        self.color: int = 0
-        self.value: int = 0  # 시작 픽셀 값
-
-    def fill(self, sr: int, sc: int):
-        if self.image[sr][sc] != self.value:
+    def fill(self, image: List[List[int]], color: int, init_value: int, sr: int, sc: int):
+        if image[sr][sc] != init_value:
             return
 
-        self.image[sr][sc] = self.color
+        image[sr][sc] = color
 
         if sr > 0:
-            self.fill(sr - 1, sc)
+            self.fill(image, color, init_value, sr - 1, sc)
         if sc > 0:
-            self.fill(sr, sc - 1)
-        if sr < len(self.image) - 1:
-            self.fill(sr + 1, sc)
-        if sc < len(self.image[0]) - 1:
-            self.fill(sr, sc + 1)
+            self.fill(image, color, init_value, sr, sc - 1)
+        if sr < len(image) - 1:
+            self.fill(image, color, init_value, sr + 1, sc)
+        if sc < len(image[0]) - 1:
+            self.fill(image, color, init_value, sr, sc + 1)
 
     def floodFill(self, image: List[List[int]], sr: int, sc: int, color: int) -> List[List[int]]:
         if image[sr][sc] != color:
-            self.image = image
-            self.color = color
-            self.value = image[sr][sc]
-            self.fill(sr, sc)
+            self.fill(image, color, image[sr][sc], sr, sc)
 
         return image
 
