@@ -47,7 +47,7 @@
   * [yourHooni](https://github.com/yourHooni) - [Valid Perfect Square Python](https://github.com/ODOA-Project/ODOA/pull/17) [✅]
   * [MINT](https://github.com/kyu1204) - [Remove Element Python](https://github.com/ODOA-Project/ODOA/pull/16) [✅]
 * 2022-11-03
-  * [Hyunso Lim](https://github.com/hslim8888) - [Number Of Steps To Reduce A Number To Zero](https://github.com/ODOA-Project/ODOA/pull/19)
+  * [Hyunsoo Lim](https://github.com/hslim8888) - [Number Of Steps To Reduce A Number To Zero](https://github.com/ODOA-Project/ODOA/pull/19)
   * [kyeongmi](https://github.com/lim-km) - [Roman to Integer C++](https://github.com/ODOA-Project/ODOA/pull/18) [✅]
   * [MINT](https://github.com/kyu1204) - [Search Insert Position Python](https://github.com/ODOA-Project/ODOA/pull/22) [✅]
   * [Jieun Kim](https://github.com/saranghe41) - [Remove Duplicates from Sorted Array](https://github.com/ODOA-Project/ODOA/pull/21) [✅]
@@ -61,3 +61,5 @@
   * [kyeongmi](https://github.com/lim-km) - [Merge Two Sorted Lists C++](https://github.com/ODOA-Project/ODOA/pull/30) [✅]
 * 2022-11-08
   * [MINT](https://github.com/kyu1204) - [Merge Sorted Array Python](https://github.com/ODOA-Project/ODOA/pull/31) [✅]
+* 2022-11-15
+  * [Hyunsoo Lim](https://github.com/hslim8888) - [Remove Duplicates from Sorted List Python](https://github.com/ODOA-Project/ODOA/pull/39) [✅]
