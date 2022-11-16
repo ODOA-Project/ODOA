@@ -45,8 +45,19 @@
   * [yourHooni](https://github.com/yourHooni) - [Remove Element Python](https://github.com/ODOA-Project/ODOA/pull/15) [✅]
   * [Jieun Kim](https://github.com/saranghe41) - [Merge Two Sorted Lists](https://github.com/ODOA-Project/ODOA/pull/20) [✅]
   * [yourHooni](https://github.com/yourHooni) - [Valid Perfect Square Python](https://github.com/ODOA-Project/ODOA/pull/17) [✅]
+  * [MINT](https://github.com/kyu1204) - [Remove Element Python](https://github.com/ODOA-Project/ODOA/pull/16) [✅]
 * 2022-11-03
+  * [Hyunso Lim](https://github.com/hslim8888) - [Number Of Steps To Reduce A Number To Zero](https://github.com/ODOA-Project/ODOA/pull/19)
   * [kyeongmi](https://github.com/lim-km) - [Roman to Integer C++](https://github.com/ODOA-Project/ODOA/pull/18) [✅]
-  * [yourHooni](https://github.com/yourHooni) - [Remove Element Python](https://github.com/ODOA-Project/ODOA/pull/24) [✅]
+  * [MINT](https://github.com/kyu1204) - [Search Insert Position Python](https://github.com/ODOA-Project/ODOA/pull/22) [✅]
+  * [Jieun Kim](https://github.com/saranghe41) - [Remove Duplicates from Sorted Array](https://github.com/ODOA-Project/ODOA/pull/21) [✅]
+  * [kyeongmi](https://github.com/lim-km) - [Longest Common Prefix C++](https://github.com/ODOA-Project/ODOA/pull/23) [✅]
+  * [yourHooni](https://github.com/yourHooni) - [Flood Fill Python](https://github.com/ODOA-Project/ODOA/pull/24) [✅]
 * 2022-11-04
+  * [Jieun Kim](https://github.com/saranghe41) - [Remove Element](https://github.com/ODOA-Project/ODOA/pull/28) [✅]
+  * [kyeongmi](https://github.com/lim-km) - [Valid Parentheses C++](https://github.com/ODOA-Project/ODOA/pull/29) [✅]
   * [yourHooni](https://github.com/yourHooni) - [Longest Common Prefix Python](https://github.com/ODOA-Project/ODOA/pull/26) [✅]
+* 2022-11-06
+  * [kyeongmi](https://github.com/lim-km) - [Merge Two Sorted Lists C++](https://github.com/ODOA-Project/ODOA/pull/30) [✅]
+* 2022-11-08
+  * [MINT](https://github.com/kyu1204) - [Merge Sorted Array Python](https://github.com/ODOA-Project/ODOA/pull/31) [✅]
